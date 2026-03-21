@@ -130,23 +130,110 @@ It is mainly used for system programming, embedded systems, and high-performance
 </tr>
 
 </table>
----
 
-## 🧠 Sample Program
+<hr>
 
-```c
-#include <stdio.h>
+## 🚀 Run C Program in Terminal 
 
-int main() {
-    int arr[5] = {1,2,3,4,5};
-    int sum = 0;
+### 📌 Write Your Code
+Create a file with `.c` extension  
 
-    for(int i = 0; i < 5; i++) {
-        sum += arr[i];
-    }
+## ⚙️ C Program Execution Guide
 
-    printf("Sum = %d", sum);
-    return 0;
-}
+<table align="center">
+<tr>
+<th>🧩 Step</th>
+<th>💻 Command</th>
+<th>📌 Description</th>
+</tr>
+
+<tr>
+<td><b>1. Go to Folder</b></td>
+<td><code>cd path/to/file</code></td>
+<td>Navigate to your C file location</td>
+</tr>
+
+<tr>
+<td><b>2. Basic Compile</b></td>
+<td><code>gcc program.c</code></td>
+<td>Creates default executable (a.out / a.exe)</td>
+</tr>
+
+<tr>
+<td><b>3. Compile with Name</b></td>
+<td><code>gcc program.c -o program</code></td>
+<td>Creates executable with custom name</td>
+</tr>
+
+<tr>
+<td><b>4. Show Warnings</b></td>
+<td><code>gcc program.c -Wall -o program</code></td>
+<td>Displays all warnings (recommended)</td>
+</tr>
+
+<tr>
+<td><b>5. Debug Mode</b></td>
+<td><code>gcc program.c -g -o program</code></td>
+<td>Add debug info for gdb</td>
+</tr>
+
+<tr>
+<td><b>6. Optimization</b></td>
+<td><code>gcc program.c -O2 -o program</code></td>
+<td>Improves performance</td>
+</tr>
+
+<tr>
+<td><b>7. Math Library</b></td>
+<td><code>gcc program.c -o program -lm</code></td>
+<td>Use when math.h functions are used</td>
+</tr>
+
+<tr>
+<td><b>8. Multiple Files</b></td>
+<td><code>gcc file1.c file2.c -o program</code></td>
+<td>Compile multiple source files</td>
+</tr>
+
+<tr>
+<td><b>9. Run (Linux/Mac)</b></td>
+<td><code>./program</code></td>
+<td>Execute the program</td>
+</tr>
+
+<tr>
+<td><b>10. Run (Windows)</b></td>
+<td><code>program</code></td>
+<td>Execute in Windows terminal</td>
+</tr>
+
+<tr>
+<td><b>11. One-Line Run</b></td>
+<td><code>gcc program.c -o program && ./program</code></td>
+<td>Compile + run together</td>
+</tr>
+
+<tr>
+<td><b>12. Check GCC</b></td>
+<td><code>gcc --version</code></td>
+<td>Check compiler installed or not</td>
+</tr>
+
+<tr>
+<td><b>13. Permission Fix</b></td>
+<td><code>chmod +x program</code></td>
+<td>Fix permission issue (Linux/Mac)</td>
+</tr>
+
+<tr>
+<td><b>14. Using Clang</b></td>
+<td><code>clang program.c -o program</code></td>
+<td>Alternative compiler</td>
+</tr>
+
+</table>
 
 
+
+
+</table>
