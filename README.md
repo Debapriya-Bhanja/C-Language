@@ -77,7 +77,7 @@ It is mainly used for system programming, embedded systems, and high-performance
 <td><b>Arrays</b></td>
 <td>1D Array, 2D Array, Matrix</td>
 <td>
-<a href="#">View Code</a>
+<a href="https://github.com/Debapriya-Bhanja/C-Language/tree/main/Array">View Code</a>
 </td>
 </tr>
 
