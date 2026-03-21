@@ -14,16 +14,17 @@
 
 ---
 
-## 📌 About This Repository
+## 💻 About C Language
 
-This repository contains my **basic C programs written topic-wise** to strengthen my programming fundamentals and logical thinking.
+C is a powerful, fast, and widely used programming language. It is the foundation of many modern languages like C++, Java, and Python.  
+It is mainly used for system programming, embedded systems, and high-performance applications.
 
-It is structured for:
-- 🎓 Academic learning  
-- 🧠 Concept clarity  
-- 💪 Building strong DSA foundation  
-- 🚀 Improving problem-solving skills  
-
+✨ Key Features:
+- ⚡ Fast and efficient
+- 🔧 Low-level memory access (pointers)
+- 📦 Structured programming
+- 💻 Portable and widely supported
+- 🧠 Strong base for learning other languages
 ---
 
 ## 🛠️ Tech Used
@@ -39,49 +40,88 @@ It is structured for:
 </p>
 
 ---
+## 📚 C Programming Topics
 
-# 📂 Topics Covered
+<table align="center">
+<tr>
+<th>🔢 Category</th>
+<th>📂 Topics</th>
+<th>🔗 Links</th>
+</tr>
 
-## 🔹 Basics
-- Hello World
-- Data Types
-- Operators
-- Input / Output
+<tr>
+<td><b>Basic Programs</b></td>
+<td>Hello World, Input/Output, Operators</td>
+<td>
+<a  href="https://github.com/Debapriya-Bhanja/C-Programs/tree/main/BASIC CODES">View Code</a>
+</td>
+</tr>
 
-## 🔹 Conditional Statements
-- if / else
-- Nested if
-- switch case
+<tr>
+<td><b>Control Statements</b></td>
+<td>If-Else, Switch, Loops</td>
+<td>
+<a href="#">View Code</a>
+</td>
+</tr>
 
-## 🔹 Loops
-- for loop
-- while loop
-- do-while loop
-- Pattern printing
+<tr>
+<td><b>Functions</b></td>
+<td>User-defined Functions, Recursion</td>
+<td>
+<a href="#">View Code</a>
+</td>
+</tr>
 
-## 🔹 Functions
-- User-defined functions
-- Recursion
-- Return values
-- Parameter passing
+<tr>
+<td><b>Arrays</b></td>
+<td>1D Array, 2D Array, Matrix</td>
+<td>
+<a href="#">View Code</a>
+</td>
+</tr>
 
-## 🔹 Arrays
-- 1D Array
-- 2D Array
-- Searching
-- Sorting
-- Matrix operations
+<tr>
+<td><b>Pointers</b></td>
+<td>Pointer Basics, Pointer to Array, Dynamic Memory</td>
+<td>
+<a href="#">View Code</a>
+</td>
+</tr>
 
-## 🔹 Pointers
-- Pointer basics
-- Pointer with arrays
-- Call by reference
+<tr>
+<td><b>Strings</b></td>
+<td>String Functions, Manipulation</td>
+<td>
+<a href="#">View Code</a>
+</td>
+</tr>
 
-## 🔹 Structures
-- Structure declaration
-- Array of structures
-- Nested structures
+<tr>
+<td><b>Structures</b></td>
+<td>Structure, Union, Nested Structure</td>
+<td>
+<a href="#">View Code</a>
+</td>
+</tr>
 
+<tr>
+<td><b>File Handling</b></td>
+<td>File Read/Write, File Operations</td>
+<td>
+<a href="#">View Code</a>
+</td>
+</tr>
+
+<tr>
+<td><b>Data Structures</b></td>
+<td>Stack, Queue, Linked List</td>
+<td>
+<a href="#">View Code</a>
+</td>
+</tr>
+
+</table>
 ---
 
 ## 🧠 Sample Program
