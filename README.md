@@ -61,7 +61,7 @@ It is mainly used for system programming, embedded systems, and high-performance
 <td><b>Control Statements</b></td>
 <td>If-Else, Switch, Loops</td>
 <td>
-<a href="#">View Code</a>
+<a href="https://github.com/Debapriya-Bhanja/C-Language/tree/main/Control_statement">View Code</a>
 </td>
 </tr>
 
@@ -69,7 +69,7 @@ It is mainly used for system programming, embedded systems, and high-performance
 <td><b>Functions</b></td>
 <td>User-defined Functions, Recursion</td>
 <td>
-<a href="#">View Code</a>
+<a href="https://github.com/Debapriya-Bhanja/C-Language/tree/main/Function">View Code</a>
 </td>
 </tr>
 
@@ -85,7 +85,7 @@ It is mainly used for system programming, embedded systems, and high-performance
 <td><b>Pointers</b></td>
 <td>Pointer Basics, Pointer to Array, Dynamic Memory</td>
 <td>
-<a href="#">View Code</a>
+<a href="https://github.com/Debapriya-Bhanja/C-Language/tree/main/pointer">View Code</a>
 </td>
 </tr>
 
@@ -93,7 +93,7 @@ It is mainly used for system programming, embedded systems, and high-performance
 <td><b>Strings</b></td>
 <td>String Functions, Manipulation</td>
 <td>
-<a href="#">View Code</a>
+<a href="https://github.com/Debapriya-Bhanja/C-Language/tree/main/String">View Code</a>
 </td>
 </tr>
 
@@ -101,7 +101,7 @@ It is mainly used for system programming, embedded systems, and high-performance
 <td><b>Structures</b></td>
 <td>Structure, Union, Nested Structure</td>
 <td>
-<a href="#">View Code</a>
+<a href="https://github.com/Debapriya-Bhanja/C-Language/tree/main/structures">View Code</a>
 </td>
 </tr>
 
@@ -109,7 +109,7 @@ It is mainly used for system programming, embedded systems, and high-performance
 <td><b>File Handling</b></td>
 <td>File Read/Write, File Operations</td>
 <td>
-<a href="#">View Code</a>
+<a href="https://github.com/Debapriya-Bhanja/C-Language/tree/main/file_handaling">View Code</a>
 </td>
 </tr>
 
@@ -117,7 +117,15 @@ It is mainly used for system programming, embedded systems, and high-performance
 <td><b>Data Structures</b></td>
 <td>Stack, Queue, Linked List</td>
 <td>
-<a href="#">View Code</a>
+<a href="https://github.com/Debapriya-Bhanja/C-Language/tree/main/DSA">View Code</a>
+</td>
+</tr>
+
+<tr>
+<td><b>Pattearn</b></td>
+<td>triangles, rectangle, more</td>
+<td>
+<a href="https://github.com/Debapriya-Bhanja/C-Language/tree/main/pattearn">View Code</a>
 </td>
 </tr>
 
