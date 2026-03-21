@@ -53,7 +53,7 @@ It is mainly used for system programming, embedded systems, and high-performance
 <td><b>Basic Programs</b></td>
 <td>Hello World, Input/Output, Operators</td>
 <td>
-<a  href="https://github.com/Debapriya-Bhanja/C-Programs/tree/main/BASIC CODES">View Code</a>
+<a  href="https://github.com/Debapriya-Bhanja/C-Language/tree/main/BASIC%20CODES">View Code</a>
 </td>
 </tr>
 
